@@ -1,0 +1,2 @@
+Git download git: https://git-scm.com/downloads
+Git bash is a extended terminal to optimize git usage.
