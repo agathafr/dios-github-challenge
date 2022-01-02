@@ -1,2 +1,6 @@
 # Dio git and github challenge repository 
-Git project challenge about git/github
+Repository created for the project challenge.
+
+## Useful Links
+
+[Basic markdown syntax](https://wwww.markdownguide.org/basic-syntax/)
